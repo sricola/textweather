@@ -1,0 +1,5 @@
+Used to find the weather at a given location and respond to the text message/SMS.
+
+Usage: SMS <location> to +1-262-374-5613 to receive weather info. (US only at the moment)
+
+I use twilio as the SMS gateway. This can be hacked to work with just about any other SMS gateway provider.
